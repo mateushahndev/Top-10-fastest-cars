@@ -1,0 +1,99 @@
+/*===Tags===*/
+
+body {
+    margin: 0px;
+}
+
+header {
+    background-color: #FF9843;
+    text-align: center;
+    padding: 1rem;
+}
+
+main {
+    text-align: center;
+
+}
+
+footer {
+    background-color: #FF9843;
+    margin: 0px;
+    padding: 2%;
+}
+
+hr {
+    border-style: dotted;
+    width: 10%;
+    border-top: none;
+    border-width: 1rem;
+}
+
+img {
+    width: 45%;
+}
+
+a {
+    color: black;
+}
+/*===Ids===*/
+
+#h11 {
+    margin-top: 0px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 250%;
+}
+
+#span1 {
+    text-decoration: underline;
+}
+
+#p1 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 175%;
+    margin-bottom: 3px;
+}
+
+#h21 {
+    font-size: 3rem;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+#img1 {
+    float: left;
+    margin: 4%;
+}
+
+#p5 {
+    text-align: center;
+}
+
+/*===Class===*/
+
+.p2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 125%;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 2rem;
+}
+.p3 {
+    font-family: 'Playfair Display', serif;
+    font-size: 125%;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 2rem;
+}
+
+.p4 {
+    text-align: left;
+    margin-left: 1%;
+}
+
+.h22 {
+    font-size: 2rem;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+
